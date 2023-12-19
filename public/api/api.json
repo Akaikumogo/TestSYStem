@@ -1,0 +1,63 @@
+{
+   "client": [
+        {
+            "id": 1,
+            "label": "Bahodirov Azizbek",
+            "company": "Zahratun",
+            "services": "POS система, Бухгалтерия, Касса, Budgeti…",
+            "date": "21.04.2023 11:44",
+            "monthly": "5 785 000 сум",
+            "status": "Активный"
+            
+        },
+        {
+            "id": 2,
+            "label": "Rahimov Sherzod",
+            "company": "OOO Blackstone",
+            "services": "POS система",
+            "date": "21.04.2023 11:44",
+            "monthly": "2 216 000 сум",
+            "status": "Не активный"
+        },
+        {
+            "id": 3,
+            "label": "Bahodirov Azizbek",
+            "company": "Zahratun",
+            "services": "Касса, Логистика",
+            "date": "21.04.2023 11:44",
+            "monthly": "5 785 000 сум",
+            "status": "Активный"
+            
+        },
+        {
+            "id": 4,
+            "label": "Bahodirov Azizbek",
+            "company": "Zahratun",
+            "services": "POS система, Бухгалтерия, Касса, Budgeti…",
+            "date": "21.04.2023 11:44",
+            "monthly": "5 785 000 сум",
+            "status": "Активный"
+            
+        },
+        {
+            "id": 5,
+            "label": "Bahodirov Azizbek",
+            "company": "Zahratun",
+            "services": "POS система, Бухгалтерия, Касса, Budgeti…",
+            "date": "21.04.2023 11:44",
+            "monthly": "5 785 000 сум",
+            "status": "Активный"
+            
+        },
+        {
+            "id": 6,
+            "label": "Bahodirov Azizbek",
+            "company": "Zahratun",
+            "services": "POS система, Бухгалтерия, Касса, Budgeti…",
+            "date": "21.04.2023 11:44",
+            "monthly": "5 785 000 сум",
+            "status": "Активный"
+            
+        }
+    ]
+}

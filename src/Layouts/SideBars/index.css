@@ -1,0 +1,15 @@
+.user .active {
+  background-color: #0063b9;
+}
+.admin .active {
+  background-color: #c67a00;
+}
+/* .user a:hover {
+  box-shadow: 1px 0px 20px 1px rgb(255, 255, 255),
+    inset 0px 0px 10px rgba(255, 255, 255, 0.5);
+}
+.user a {
+  transition: all;
+  transition-duration: 400ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+} */

@@ -1,0 +1,40 @@
+.data {
+  width: 10px;
+}
+/* .ant-table_action {
+  width: 800px;
+} */
+/* .ant-table-thead td {
+  border: 1px solid grey;
+} */
+/*
+.ant-table-tbody td {
+  border: 1px solid grey;
+} */
+/* .ant-table-cell .sum {
+  width: 10px;
+} */
+/* .ant-table-cell {
+  border: 1px solid grey;
+  text-align: center;
+} */
+/* .ant-table-wrapper {
+  border: 1px solid grey;
+  border-radius: 8px;
+} */
+/* .ant-table-thead td {
+  width: 0px;
+} */
+:where(.css-dev-only-do-not-override-1g853jt).ant-table-wrapper
+  .ant-table-thead
+  > tr
+  > th,
+:where(.css-dev-only-do-not-override-1g853jt).ant-table-wrapper
+  .ant-table-thead
+  > tr
+  > td {
+  background: #deefff;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: center;
+}

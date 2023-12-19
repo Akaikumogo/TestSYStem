@@ -1,0 +1,21 @@
+/* .ant-upload {
+  overflow: hidden;
+} */
+
+/* .css-dev-only-do-not-override-1g853jt {
+  background-color: #1677ff;
+} */
+/* .ant-modal-report {
+  top: 3vh !important;
+} */
+.reactEasyCrop_CropArea {
+  width: 80% !important;
+  height: 2650.5px;
+}
+.img-crop-modal .ant-modal-footer .ant-btn-primary {
+  background: #1677ff !important;
+}
+/* .ant-modal css-dev-only-do-not-override-1g853jt {
+  width: 85px !important;
+  height: 265.5px;
+} */

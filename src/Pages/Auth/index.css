@@ -1,0 +1,66 @@
+.background {
+  background-image: url("../../assets/signinbackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: -150px;
+}
+.phone-wrapper:focus-within {
+  border: 1px solid#004EB9;
+}
+.custom-input {
+  width: 390px;
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid rgba(128, 128, 128, 0.445);
+  padding-left: 20px;
+}
+.p-inputtext:enabled:focus {
+  outline: 0 none;
+  outline-offset: 0;
+  box-shadow: none;
+  border-color: #004eb9;
+}
+.p-inputtext:enabled:focus ~ .p-float-label label {
+  left: 0.75rem;
+  color: #004eb9;
+  transition-duration: 0.2s;
+}
+
+.input-phone {
+  height: 45px;
+  font-size: 16pt;
+  width: 85%;
+
+  margin-left: 55px;
+  outline: none;
+}
+.p-password i {
+  top: 15px;
+}
+.p-float-label label {
+  position: absolute;
+  pointer-events: none;
+  margin-top: -0.5rem;
+  transition-property: all;
+  transition-timing-function: ease;
+  line-height: 1;
+}
+.react-tel-input .selected-flag {
+  outline: none;
+  position: relative;
+  width: 45px;
+  height: 100%;
+  padding-left: 20px;
+  border-radius: 3px 0 0 3px;
+}
+.react-tel-input .flag-dropdown {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 0;
+  /* background-color: #f5f5f5; */
+  /* border: 1px solid #cacaca; */
+  border-radius: 3px 0 0 3px;
+}
